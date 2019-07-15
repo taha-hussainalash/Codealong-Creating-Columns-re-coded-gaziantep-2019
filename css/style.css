@@ -3,7 +3,7 @@
 }
 
 /* Descendent Selector */
-@@ -70,3 +69,85 @@ figcaption {
+
 #details a:active {
   color: red;
 }
